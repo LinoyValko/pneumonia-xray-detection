@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-ray Images 
+# פמקוצםמןש גקאקבאןםמ כרםצ ביקדא ס-רשט ןצשעקד # Pneumonia Detection from Chest X-ray Images 
 
 This project applies deep learning techniques to classify chest X-ray images as Pneumonia or Normal, using a Convolutional Neural Network (CNN). It was developed as part of an academic assignment in a Deep Learning course.
 
@@ -8,7 +8,7 @@ The dataset provided for this task includes chest X-ray images categorized into:
 - `NORMAL` (healthy lungs)
 - `PNEUMONIA` (infected lungs)
 
-The dataset used is Chest X-Ray Images (Pneumonia) from Kaggle.
+You can download the dataset from [Google Drive](https://drive.google.com/file/d/1DMir6BbaWuvs79LvQULTDPgi_TepHRhm/view).
 
 ## Models and Approach
 
