@@ -1,4 +1,4 @@
-# פמקוצםמןש גקאקבאןםמ כרםצ ביקדא ס-רשט ןצשעקד # Pneumonia Detection from Chest X-ray Images 
+# Pneumonia Detection from Chest X-ray Images 
 
 This project applies deep learning techniques to classify chest X-ray images as Pneumonia or Normal, using a Convolutional Neural Network (CNN). It was developed as part of an academic assignment in a Deep Learning course.
 
